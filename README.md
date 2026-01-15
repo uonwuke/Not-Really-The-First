@@ -1,1 +1,1 @@
-Hey there! This repository is just holding a java file the prints Hello World. The inspiration for this simply came from me just practing my github skills on Codedex, and remembering the first programming assignment I had "Create a program that prints Hello World."
+Hey there! This repository is just holding a java file the prints Hello World. The inspiration for this simply came from me just practing my github skills on Codedex, and remembering the first programming assignment I had "*Create a program that prints Hello World*."
